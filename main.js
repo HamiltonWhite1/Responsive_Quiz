@@ -38,6 +38,8 @@ qOne.addEventListener('submit', (e) => {
     if (q_one.value.toLowerCase() == "imola") {
         console.log("This works")
         q_one.style.backgroundColor = 'lightgreen';
+    } else {
+        q_one.style.backgroundColor = 'red';
     }
 })
 
@@ -47,6 +49,8 @@ qTwo.addEventListener('submit', (e) => {
     if (q_two.value.toLowerCase() == "silverstone") {
         console.log("This works")
         q_two.style.backgroundColor = 'lightgreen';
+    } else {
+        q_two.style.backgroundColor = 'red';
     }
 })
 
@@ -56,6 +60,8 @@ qThree.addEventListener('submit', (e) => {
     if (q_three.value.toLowerCase() == "daniel ricciardo") {
         console.log("This works")
         q_three.style.backgroundColor = 'lightgreen';
+    } else {
+        q_three.style.backgroundColor = 'red';
     }
 })
 
@@ -65,6 +71,8 @@ qFour.addEventListener('submit', (e) => {
     if (q_four.value.toLowerCase() == "lando norris") {
         console.log("This works")
         q_four.style.backgroundColor = 'lightgreen';
+    } else {
+        q_four.style.backgroundColor = 'red';
     }
 })
 
@@ -74,6 +82,8 @@ qFive.addEventListener('submit', (e) => {
     if (q_five.value.toLowerCase() == "lewis hamilton") {
         console.log("This works")
         q_five.style.backgroundColor = 'lightgreen';
+    } else {
+        q_five.style.backgroundColor = 'red';
     }
 })
 
@@ -83,6 +93,8 @@ qSix.addEventListener('submit', (e) => {
     if (q_six.value.toLowerCase() == "megan thee stallion") {
         console.log("This works")
         q_six.style.backgroundColor = 'lightgreen';
+    } else {
+        q_six.style.backgroundColor = 'red';
     }
 })
 
@@ -92,6 +104,8 @@ qSeven.addEventListener('submit', (e) => {
     if (q_seven.value.toLowerCase() == "nikkita mazepin") {
         console.log("This works")
         q_seven.style.backgroundColor = 'lightgreen';
+    } else {
+        q_seven.style.backgroundColor = 'red';
     }
 })
 
@@ -101,6 +115,8 @@ qEight.addEventListener('submit', (e) => {
     if (q_eight.value.toLowerCase() == "lewis hamilton") {
         console.log("This works")
         q_eight.style.backgroundColor = 'lightgreen';
+    } else {
+        q_eight.style.backgroundColor = 'red';
     }
 })
 
@@ -110,6 +126,8 @@ qNine.addEventListener('submit', (e) => {
     if (q_nine.value.toLowerCase() == "nikkita mazepin") {
         console.log("This works")
         q_nine.style.backgroundColor = 'lightgreen';
+    } else {
+        q_nine.style.backgroundColor = 'red';
     }
 })
 
@@ -120,6 +138,8 @@ qTen.addEventListener('submit', (e) => {
     if (q_ten.value.toLowerCase() == "nikkita mazepin") {
         console.log("This works")
         q_ten.style.backgroundColor = 'lightgreen';
+    } else {
+        q_ten.style.backgroundColor = 'red';
     }
 })
 
